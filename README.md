@@ -1,3 +1,7 @@
+<h1 align="center">
+ <img src="https://www.canva.com/design/DAE_DLro1LU/EiJfSDS7YEUom7VHjNuyxg/view?utm_content=DAE_DLro1LU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Selene</h1>
 <h3 align="center">I'm a software developer who is passionate about making new and interesting proyects. I love frontend though I feel comfortable building backend too. I'm a creative person who always feels like facing new challenges in the awesome IT world.</h3>
 
