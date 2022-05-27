@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Selene</h1>
 <h3 align="center">I'm a software developer who is passionate about making new and interesting proyects. I love frontend though I feel comfortable building backend too. I'm a creative person who always feels like facing new challenges in the awesome IT world.</h3>
 
-- 🌱 I’m currently learning **React native and C++**
+- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **JavaScript, React, CSS, HTML, Node JS, Express, PostgreSQL, Sequelize**
 
